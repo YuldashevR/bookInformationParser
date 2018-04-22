@@ -1,2 +1,1 @@
-# bookInformationParser
-Repository for book information parser
+Данная программа парсит информацию о книгах
